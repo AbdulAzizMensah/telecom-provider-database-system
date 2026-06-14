@@ -2,6 +2,10 @@
 
 > A complete MySQL relational database system simulating real-world telecom operations including customers, billing, subscriptions, payments, usage tracking, and complaints with automated reporting and business intelligence features.
 # TELECOMMUNICATION PROVIDER DATABASE SYSTEM
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Database](https://img.shields.io/badge/Database-Design-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
 
 ## PROJECT REPORT
 
