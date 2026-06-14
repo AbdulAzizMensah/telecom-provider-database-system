@@ -168,6 +168,44 @@ Future improvements may include:
 
 ---
 
+
+
+## ⚙️ How to Run This Project
+
+### 1. Clone the repository
+
+git clone https://github.com/yourusername/telecom-provider-database-system.git
+### 2. Open MySQL Workbench
+Import the SQL file:
+
+---
+
+```markdown id="step9d"
+### 4. Execute SQL Script
+Run the full script to create:
+- Tables
+- Relationships
+- Views
+- Procedures
+- Triggers
+
+---
+
+### 5. Verify Setup
+Run:
+
+SHOW TABLES;
+
+## ⭐ Project Highlights
+
+- Fully relational database design
+- Real-world telecom business simulation
+- Automated billing using triggers
+- Stored procedures for operations
+- Advanced reporting with SQL views
+- Customer 360-degree analytics
+- Complaint tracking system
+
 ## AUTHOR
 
 Abdul Aziz Hamidu Mensah  
