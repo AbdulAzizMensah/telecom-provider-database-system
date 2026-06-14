@@ -1,4 +1,6 @@
+# 🚀 Telecommunication Provider Database System
 
+> A complete MySQL relational database system simulating real-world telecom operations including customers, billing, subscriptions, payments, usage tracking, and complaints with automated reporting and business intelligence features.
 # TELECOMMUNICATION PROVIDER DATABASE SYSTEM
 
 ## PROJECT REPORT
